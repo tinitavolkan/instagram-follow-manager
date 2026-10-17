@@ -10,7 +10,7 @@ jobs:
     timeout-minutes: 20
     env:
       PYTHONUTF8: '1'
-      INSTAGRAMTAKIP_DATA_DIR: '${{ runner.temp }}/instagram-follow-manager-tests'
+      INSTAGRAMTAKIP_DATA_DIR: '${{ github.workspace }}/runtime-data'
     steps:
       - uses: actions/checkout@v4
         with:
