@@ -1,0 +1,12 @@
+{
+  "relationships_following": [
+    {
+      "title": "demo_mutual",
+      "string_list_data": [{"href": "https://www.instagram.com/demo_mutual/", "value": "demo_mutual", "timestamp": 1}]
+    },
+    {
+      "title": "demo_candidate",
+      "string_list_data": [{"href": "https://www.instagram.com/demo_candidate/", "value": "demo_candidate", "timestamp": 1}]
+    }
+  ]
+}
